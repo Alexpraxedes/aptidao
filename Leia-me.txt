@@ -1,0 +1,17 @@
+
+
+
+1. Criar um Banco de Dados na Hospedagem e Alterar o PHP para 7.0 pois so vai rodar no php 7.0
+2. Executar o instalador na url em que subiu os arquivos (suaurl.com.br/install)
+3. Configurar com o seu banco de dados
+4. Pronto agora basta configurar da forma que mais lhe agradar!
+
+
+Para ficar em portugues basta vc importar o banco de dados de nome: bancoportugues.sql, essa importação so 
+pode ser feita apos o termino da instalação automatica. 
+
+
+O usuario e senha do banco de dados em portugues e:
+
+Usuario:  pontodigitalprogramas@hotmail.com
+Senha: 123456

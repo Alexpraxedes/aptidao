@@ -1,0 +1,9 @@
+Please follow the instructions carefully.
+- Go to system settings from settings menu in admin panel
+- Move to the section 'Update Product' on that page
+- Upload the file 'update_1.3.zip' from your copy of Academy app downloaded from Codecanyon
+- Hit the button 'install update'
+- That's it
+
+PLEASE MAKE SURE THAT YOU ARE RUNNING THE 1.2 VERSION BEFORE UPDATING TO 1.3
+IF YOU ARE ALREADY RUNNING THE 1.3 VERSION THERE IS NO NEED TO UPDATE… Thank You
